@@ -13,6 +13,7 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "scripts": {
+        "watch": "gulp watch",
         "zip": "gulp release",
         "test": "gscan ."
     },
