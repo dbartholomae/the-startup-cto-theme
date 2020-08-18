@@ -6,6 +6,15 @@
             display: inline-block;
             list-style: none;
         }
+
+        li:after {
+            margin-left: 1rem;
+            content: "|";
+        }
+
+        li:last-of-type:after{
+            content: ""
+        }
     }
     
     .post-header & {
