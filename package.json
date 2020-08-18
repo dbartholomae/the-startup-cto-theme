@@ -1,7 +1,6 @@
 {
-    "name": "the-shell",
+    "name": "the-startup-cto-theme",
     "description": "Theme for Ghost which use 'Ghost in The Shell' animation series palette colors",
-    "demo": "https://ghostintheshell.ghost.io",
     "version": "3.0.0",
     "engines": {
         "ghost": ">=3.0.0",
@@ -19,9 +18,9 @@
         "test": "gscan ."
     },
     "author": {
-        "name": "Dmitry Lebedev",
-        "email": "mityalebedev@me.com",
-        "url": "https://github.com/mityalebedev"
+        "name": "Daniel Bartholomae",
+        "email": "daniel@bartholomae.name",
+        "url": "https://the-startup-cto.net"
     },
     "gpm": {
         "type": "theme",
@@ -37,10 +36,8 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mityalebedev/The-Shell.git"
+        "url": "https://github.com/dbartholomae/the-startup-cto-theme.git"
     },
-    "bugs": "https://github.com/mityalebedev/The-Shell/issues",
-    "contributors": "https://github.com/mityalebedev/The-Shell/graphs/contributors",
     "devDependencies": {
         "browser-sync": "^2.26.3",
         "gscan": "^3.5.6",
