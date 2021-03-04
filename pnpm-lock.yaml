@@ -6,7 +6,7 @@ devDependencies:
   gulp-sass: 4.1.0
   gulp-sourcemaps: 2.6.5
   gulp-zip: 4.2.0
-lockfileVersion: 5.1
+lockfileVersion: 5.2
 packages:
   /@gulp-sourcemaps/identity-map/1.0.2:
     dependencies:
